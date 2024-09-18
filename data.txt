@@ -1,0 +1,11 @@
+Emails :
+john.doe@example.com, jane_doe123@sub.example.co.uk, invalid-email@.com
+
+Téléphones :
++1-800-555-1234, 020 7946 0958, (123) 456-7890, 555-1234
+
+Dates :
+25/12/2023, 12-25-2023, 2024-09-18, 02.09.2023
+
+URLs :
+https://example.com, http://example.org, https://subdomain.example.co.uk, www.invalid-url.com
